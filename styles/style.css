@@ -65,8 +65,9 @@ main button {
 
 #section-div{
     background-color: #fafafb;
-    margin: 100px;
+    margin: 100px 100px 100px 100px;
     text-align: center;
+    
 }
 .section-container {
     background-color: #fafafb;
@@ -93,4 +94,8 @@ main button {
   padding: 21px 24px 21px 24px;
   color: rgb(8, 8, 8);
   font-size: medium;
+}
+.vedio-section{
+  margin-left: 170px;
+  margin-top: 50px;
 }
